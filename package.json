@@ -1,0 +1,22 @@
+{
+  "name": "userApp-meanstack",
+  "version": "1.0.0",
+  "description": "userApp-meanstack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Service Center",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-load": "^1.1.15",
+    "handlebars": "^4.0.5",
+    "method-override": "^2.3.5",
+    "mongodb": "^2.1.3",
+    "mongoose": "^4.3.4",
+    "nodemailer": "^2.0.0"
+  }
+}

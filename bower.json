@@ -1,0 +1,28 @@
+{
+  "name": "userApp-meanstack",
+  "description": "userApp-meanstack",
+  "main": "server.js",
+  "authors": [
+    "Alan Rodrigues"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-resource": "~1.4.8",
+    "angular-ui-mask": "~1.6.7",
+    "jquery-ui": "~1.11.4",
+    "angular-sanitize": "1.4.8"
+  }
+}
